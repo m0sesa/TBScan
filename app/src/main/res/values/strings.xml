@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TB DETECTOR</string>
+    <string name="analyze">Analyze</string>
+    <string name="place_holder_image">Place holder image</string>
+    <string name="app_info">TB scan v.1.0</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="result_text">Result: </string>
+    <string name="result_placeholder">..........</string>
+    <string name="logo">Logo</string>
+    <string name="logout">Logout</string>
+</resources>
